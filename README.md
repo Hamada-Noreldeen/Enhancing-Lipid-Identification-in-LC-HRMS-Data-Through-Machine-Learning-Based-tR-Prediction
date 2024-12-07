@@ -13,4 +13,4 @@ The steps are as follows:
 
 5-	Due to the better result that we got from the MD-based model, so we used it for transferring from one chromatographic system (CS) into another - two CSs were different in gradients, matrix, and running time, with the same buffers and columns - (Folder4).
 
-6-	Of note, in Folder5, we didn’t use our model, we just made tR celebration from one CS (Main dataset) into another (new CS)- the two CSs were the same in buffers and columns, but different in acquisition batches, matrix, or instruments -.
+6-	Note, in Folder5, we didn’t use our model, we just made tR celebration from one CS (Main dataset) into another (new CS)- the two CSs were the same in buffers and columns, but different in acquisition batches, matrix, or instruments -.
